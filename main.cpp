@@ -11,7 +11,7 @@ using namespace std;
 int main(){
     srand(time(NULL));
     setlocale(LC_ALL, "spanish");
-    system("title TP INTEGRADOR 1 0 0 0 0");
+    system("title G A M E  1 0 0 0 0");
     system("color C0");//la C cambia el fondo y el 0 cambia la letra
     //tamaño letra
     CONSOLE_FONT_INFOEX cfi;
