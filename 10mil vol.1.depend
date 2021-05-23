@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1593576799 source:c:\users\joa_a\documents\utn\laboratorio de computacion 1\tp integrador\10mil vol.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<cwchar>
+	"funciones10mil.h"
+
+1593576743 c:\users\joa_a\documents\utn\laboratorio de computacion 1\tp integrador\10mil vol.1\funciones10mil.h
+
+1593576608 source:c:\users\joa_a\documents\utn\laboratorio de computacion 1\tp integrador\10mil vol.1\funciones10mil.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<random>
+	"funciones10mil.h"
+
+1593725946 source:c:\users\joa_a\documents\utn\laboratorio de computacion 1\tp integrador\10mil vol.2\funciones10mil.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<cwchar>
+	"funciones10mil.h"
+
+1593724209 c:\users\joa_a\documents\utn\laboratorio de computacion 1\tp integrador\10mil vol.2\funciones10mil.h
+
+1593726562 source:c:\users\joa_a\documents\utn\laboratorio de computacion 1\tp integrador\10mil vol.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<cwchar>
+	"funciones10mil.h"
+
+1593725946 source:c:\users\joa_a\documents\utn\1er cuatrimestre\laboratorio de computacion 1\tp integrador\10mil vol.2\funciones10mil.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<cwchar>
+	"funciones10mil.h"
+
+1593724209 c:\users\joa_a\documents\utn\1er cuatrimestre\laboratorio de computacion 1\tp integrador\10mil vol.2\funciones10mil.h
+
+1597695419 source:c:\users\joa_a\documents\utn\1er cuatrimestre\laboratorio de computacion 1\tp integrador\10mil vol.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<cwchar>
+	"funciones10mil.h"
+
+1593725946 source:c:\users\joa_a\documents\utn\1er cuatrimestre\laboratorio de computacion 1\juego-10mil\funciones10mil.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<cwchar>
+	"funciones10mil.h"
+
+1593724209 c:\users\joa_a\documents\utn\1er cuatrimestre\laboratorio de computacion 1\juego-10mil\funciones10mil.h
+
+1597695419 source:c:\users\joa_a\documents\utn\1er cuatrimestre\laboratorio de computacion 1\juego-10mil\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<cwchar>
+	"funciones10mil.h"
+
